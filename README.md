@@ -1,5 +1,7 @@
 # BMICalculator
 
+del curso Angular 11 Tomas Ruiz Diaz (Udemy)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.4.
 
 ## Development server
